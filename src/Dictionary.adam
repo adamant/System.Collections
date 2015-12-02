@@ -1,0 +1,6 @@
+namespace System.Collections
+{
+	public class Dictionary<κ, τ>
+	{
+	}
+}
